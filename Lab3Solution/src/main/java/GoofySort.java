@@ -4,7 +4,7 @@ import java.util.Arrays;
 public class GoofySort {
     public static void main(String[] args) {
 
-        int[] arr = new int[]{3,2,1,6,6,7,5,3};
+        int[] arr = new int[]{3,2,1,6,6,7,5,3, 4, 8, 11, 9, 15};
         int sortedArr[] = Goofy(arr);
 
         for(int i=0; i<sortedArr.length; i++){
