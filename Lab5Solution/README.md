@@ -1,4 +1,4 @@
-#Q4:
+#Q3:
 - Testing Merge Sort vs. Merge Sort Plus, which using insertion sort when the array length is less than or equal 20 elements.
 - Check out the result log : 
 ```initial array:
